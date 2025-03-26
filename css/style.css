@@ -1,13 +1,11 @@
-nav {
+#main-navbar {
 	background-color: blue;
 	overflow: hidden;
+}
+
+#navbar-container {
 	float: left;
 	width: 100%;
 	position: relative;
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	left: 50%;
-	right: 50%;
-	display: block;
 }
+
